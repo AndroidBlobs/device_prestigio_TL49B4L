@@ -1,0 +1,2 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/lineage_TL49B4L.mk
